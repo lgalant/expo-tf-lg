@@ -1,6 +1,6 @@
 # expo-tf-lg
 POC Uso de teachablemachine para reconocimiento de imagenes con tf en RN expo
-
+yarn install 
 
 expo install expo-camera  
 expo install expo-image-manipulator  
